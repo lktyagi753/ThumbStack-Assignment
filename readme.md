@@ -2,12 +2,11 @@
 
 ### Introduction
 This repo consists of the **Frontend** part of a Realtime Chat Application built with the MERN stack. I built it when I was trying to learn React and the stack for the first time.
-You can find the backend repo [here](https://github.com/tsengm6h6/chat-app-server).
+You can find the backend repo [here](https://github.com/lktyagi753/ThumbStack-Assignment).
 
 ### Feature
 - JWT Authentication
 - One-on-one **Private Chat** where users can chat with others privately.
-- Create a room and start a **Room Chat** for users who want to broadcast messages to a specific group of users.
 - Real-time updates to conversation messages, user online/ offline, read/ unread status, user join/leave room to notify, etc.
 - Support both RWD and different themes with light and dark mode
 
@@ -26,11 +25,11 @@ You can find the backend repo [here](https://github.com/tsengm6h6/chat-app-serve
 ### How to use
 1. Clone the repo
     ```
-    git clone https://github.com/tsengm6h6/chat-app-client-v2.git
+    git clone https://github.com/lktyagi753/ThumbStack-Assignment
     ```
 2. Enter the directory
     ```
-    cd chat-app-client-v2
+    cd ThumbStack-Assignment
     ```
 3. Install dependencies
     ```
