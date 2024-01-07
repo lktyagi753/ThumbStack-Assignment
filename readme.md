@@ -16,11 +16,6 @@ You can find the backend repo [here](https://github.com/lktyagi753/ThumbStack-As
 - frontend - React.js (with styled-components)
 - Real-time messages - Socket.io
 
-### Deploy
-- database: MongoDB Atlas
-- backend: Render
-- frontend: Netlify
-
 
 ### How to use
 1. Clone the repo
